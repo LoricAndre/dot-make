@@ -1,0 +1,4 @@
+background-color=%{{background}}
+text-color=%{{foreground}}
+color1=%{{color1}}
+color9=%{{color9}}

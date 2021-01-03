@@ -1,0 +1,5 @@
+background="#000000"
+foreground="#FFFFFF"
+color0="#000000"
+color1="#FF0000"
+color2="#00FF00"
